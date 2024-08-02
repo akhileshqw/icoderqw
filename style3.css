@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+     flex-direction: column;
+     gap: 20px;
+     justify-content: space-between;
+}
+.cc{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+/* <div class="form-check">
+<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+<label class="form-check-label" for="flexCheckDefault">
+  Yes?
+</label>
+</div> */

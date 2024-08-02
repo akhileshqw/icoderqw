@@ -1,0 +1,15 @@
+ .akhi:hover{
+    cursor: pointer;
+} 
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.myflex{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+} 
